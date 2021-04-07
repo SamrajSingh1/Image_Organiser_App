@@ -1,4 +1,7 @@
 # Image_Organiser_App
+
+Kindly watch video saved in directory to understand the working of Appllication.
+
 This app will get location of perticular folder from user ,user will browse to that folder after that app will automatically organize the images of that folder and classify all images into 3 subfolder called Document image , Family photo and Nature image. App will distinguish between images through machine learning algorithm running on server.
 
 
